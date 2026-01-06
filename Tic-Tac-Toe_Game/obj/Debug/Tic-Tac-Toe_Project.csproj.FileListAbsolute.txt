@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\Programming Advices courses\course14\Tic-Tac-Toe_Project\bin\Debug\Tic-Tac-Toe_Project.exe.config
+C:\Users\PC\Desktop\Programming Advices courses\course14\Tic-Tac-Toe_Project\bin\Debug\Tic-Tac-Toe_Project.exe
+C:\Users\PC\Desktop\Programming Advices courses\course14\Tic-Tac-Toe_Project\bin\Debug\Tic-Tac-Toe_Project.pdb
+C:\Users\PC\Desktop\Programming Advices courses\course14\Tic-Tac-Toe_Project\obj\Debug\Tic-Tac-Toe_Project.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Programming Advices courses\course14\Tic-Tac-Toe_Project\obj\Debug\Tic_Tac_Toe_Project.Form1.resources
+C:\Users\PC\Desktop\Programming Advices courses\course14\Tic-Tac-Toe_Project\obj\Debug\Tic_Tac_Toe_Project.Properties.Resources.resources
+C:\Users\PC\Desktop\Programming Advices courses\course14\Tic-Tac-Toe_Project\obj\Debug\Tic-Tac-Toe_Project.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Programming Advices courses\course14\Tic-Tac-Toe_Project\obj\Debug\Tic-Tac-Toe_Project.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Programming Advices courses\course14\Tic-Tac-Toe_Project\obj\Debug\Tic-Tac-Toe_Project.exe
+C:\Users\PC\Desktop\Programming Advices courses\course14\Tic-Tac-Toe_Project\obj\Debug\Tic-Tac-Toe_Project.pdb
+C:\Users\PC\Desktop\Programming Advices courses\course14\Tic-Tac-Toe_Project\obj\Debug\Tic-Tac-Toe_Project.exe.config
